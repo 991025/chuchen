@@ -1,5 +1,5 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <p>雕栏玉砌应犹在</p>
   </div>
 </template>
