@@ -2,6 +2,8 @@
   <div id="app">
     <div id="nav">
     <span>刘建航</span>
+    <span>刘建航</span>
+    <span>刘建航</span>
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
     </div>
